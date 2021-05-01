@@ -15,3 +15,13 @@
     padding: 16px;
     background-color: #FFF;
 }
+
+.nav-list {
+    display: flex;
+    flex-direction: column;
+}
+
+.menu-close {
+    color: #fff;
+    align-self: flex-end;
+}

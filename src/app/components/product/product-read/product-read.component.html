@@ -8,9 +8,16 @@
 <mat-card *ngFor="let product of products" class="product-container">
   <mat-title>{{ product.name }}</mat-title>
   <mat-card-subtitle>{{ product.price }}</mat-card-subtitle>
+  
   <img mat-card-image [src]="product.image" alt="foto" >
-  <mat-card-content>{{ product.descrition }}</mat-card-content>
-  <mat-card-actions>
+  
+  <mat-card-content class="description">
+    <p>
+      {{ product.description }}
+    </p>
+  </mat-card-content>
+  
+  <mat-card-actions class="bt-container">
     <button mat-raised-button color="primary">
       Detalhes
     </button>
