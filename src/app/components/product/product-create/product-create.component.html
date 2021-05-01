@@ -16,7 +16,21 @@
               [(ngModel)]="product.price"
               name="price">
     </mat-form-field>
-  
+
+    <mat-form-field>
+      <input  placeholder="Url da imagem"
+              matInput
+              [(ngModel)]="product.image"
+              name="image">
+    </mat-form-field>
+
+    <mat-form-field>
+      <input  placeholder="Descrição do produto"
+              matInput
+              [(ngModel)]="product.description"
+              name="description">
+    </mat-form-field>
+      
   </form>
 
   <button mat-raised-button (click)="addProduct()" color="primary">
