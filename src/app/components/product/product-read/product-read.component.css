@@ -1,0 +1,9 @@
+.product-container {
+  margin: 0 1rem 1rem 0;
+  min-width: 15rem;
+  max-width: 50%;
+}
+
+img {
+  width: 10rem;
+}
