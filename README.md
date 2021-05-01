@@ -31,11 +31,11 @@ O design da aplicação foi feito utilizando o Angular Material.
 
 
 
-![Tela de início](/home/ghost/Pictures/TupperYuki-inicio.png)
+![Tela de início](https://drive.google.com/file/d/1gbeSgF3Z9DIMUxdXJ0E7CBURn6CCmpYr/view?usp=sharing)
 
 
 
-![Tela de produtos](/home/ghost/Pictures/TupperYuki-produtos.png)
+![Tela de produtos](https://drive.google.com/file/d/1AReanpKvp8vocIJLg45ECYNVjU-PPUzu/view?usp=sharing)
 
 
 
@@ -73,7 +73,7 @@ Após finalizado, rode o comando `npm start`, dentro da pasta `Backend`;
 
 Você vai ver alguma mensagem parecida com essa abaixo:
 
-![tela terminal json-server](/home/ghost/Pictures/json-server.png)
+![tela terminal json-server](https://drive.google.com/file/d/1ZqPuYHrqyz_G38fTV4HZ-fm-ZNUM89Y4/view?usp=sharing)
 
 
 
