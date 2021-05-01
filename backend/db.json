@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Eco Tupper",
+      "price": 39.99,
+      "image": "https://cdn.awsli.com.br/600x450/0/239/produto/66295488/70f0292cb3.jpg",
+      "description": "A Garrafa Eco Tupper Plus 500ml o produto e Perfeito para você armazenar seus líquidos de maneira eficiente. Cabe perfeitamente na porta da geladeira ou pode ser guardada deitada e não vaza."
+    },
+    {
+      "id": 2,
+      "name": "Tigela Criativa",
+      "price": 59.99,
+      "image": "https://cdn.awsli.com.br/600x450/0/239/produto/28262799/c54848d6e8.jpg",
+      "description": "Não levar no freezer/congelador, micro-ondas ou forno. Não lavar com o lado verde(áspero) da esponja, usar o lado macio para manter a beleza do seu produto por muito tempo! Não use produtos químicos e abrasivos. Use água, esponja macia e detergente neutro."
+    },
+    {
+      "id": 3,
+      "name": "Turbo Chef",
+      "price": 229.99,
+      "image": "https://cdn.awsli.com.br/600x450/0/239/produto/62537543/15ffe7b838.jpg",
+      "description": "Agora a tupperware traz o turbo chef na cor preta. com tecnologia de ponta no corte, facilita o dia a dia na cozinha, puxando apenas a corda é acionado as lâminas que fazem quase 400 cortes em 20 segundos."
+    },
+    {
+      "id": 4,
+      "name": "Tigela Maravilhosa",
+      "price": 59.99,
+      "image": "https://cdn.awsli.com.br/600x450/0/239/produto/18979182/9f1c99d8b2.jpg",
+      "description": "A Tigela Maravilhosa é um clássico da Tupperware, ela é essencial  para conservar os alimentos na geladeira. Deixe tudo mais organizado,com a linha Tupperware Tigela Maravilhosa 500ml ela possui tampa hermética. Aproveite e Decore sua cozinha com mais estilo."
+    }
+  ]
+}
