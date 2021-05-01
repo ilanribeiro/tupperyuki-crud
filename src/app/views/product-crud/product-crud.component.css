@@ -1,0 +1,9 @@
+.np-button {
+  margin-bottom: 1rem;
+}
+
+.products-container {
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+}
